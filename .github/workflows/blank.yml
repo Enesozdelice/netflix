@@ -18,7 +18,8 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest*ubuntu=ubaku(sat) 
+run_apk_comminications_with_grizu263_hellospaceistanbul_imece_allturksats_uhuzams_teknokents_finally_itugroupsat&kasat1_to_+905069997755+sdcard64gb
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
